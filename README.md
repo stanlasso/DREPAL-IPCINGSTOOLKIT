@@ -46,8 +46,9 @@ go to **/home/xxxxxxx/**
 To complete installation of IPCINGSTOOLKIT  clone the directory and enter it.
 
 ```
-git clone git@github.com:stanlasso/DREPAL-IPCINGSTOOLKIT.git
+mkdir IPCITOOLKIT
 cd IPCITOOLKIT
+git clone git@github.com:stanlasso/DREPAL-IPCINGSTOOLKIT.git
 ```
 ### 3. Conda
 
