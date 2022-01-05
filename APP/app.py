@@ -174,7 +174,7 @@ def appconnect():
             st.markdown("""""")
             st.markdown("""<h1>IPCI NGS TOOLKIT</h1>""",
                         unsafe_allow_html=True)
-            st.image("/home/user/IPCITOOLSKIT/APP/img/5139810.jpg")
+            st.image(str(os.getcwd())+"/APP/img/5139810.jpg")
             with st.container():
                 st.markdown("""<h4 style="width:100%;text-align:left;">IPCI NGS TOOLKIT </h4> <br> <p style="text-align:justify;">   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia ex doloribus temporibus est? Quas laborum illum iusto maiores aperiam et iure nam consequatur, soluta reiciendis provident repellat aliquid voluptas voluptate dolor obcaecati corporis eos eveniet deleniti. Eius, voluptas quas ex tempora voluptatibus quidem aliquid rerum quis alias optio quos hic nisi, veniam animi beatae minima dolores labore iusto amet neque, voluptatum eum impedit. Odit minus omnis veritatis quo. </p>""", unsafe_allow_html=True)
 
