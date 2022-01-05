@@ -1,0 +1,54 @@
+# packages in environment at /Users/iipci/miniconda3/envs/macosenv:
+#
+# Name                    Version                   Build  Channel
+_r-mutex                  1.0.0               anacondar_1 
+bcftools                  1.9                  h3a161e8_4    bioconda
+bzip2                     1.0.8                h1de35cc_0
+c-ares                    1.17.1               h9ed2024_0
+ca-certificates           2021.10.26           hecd8cb5_2
+certifi                   2021.10.8        py38hecd8cb5_0
+curl                      7.69.1               ha441bb4_0
+fastp                     0.12.4                        0    bioconda
+fastqc                    0.11.9               hdfd78af_1    bioconda
+font-ttf-dejavu-sans-mono 2.37                 hd3eb1b0_0
+fontconfig                2.13.1               ha9ee91d_0
+freetype                  2.11.0               hd8bbffd_0
+gsl                       2.4                  h1de35cc_4
+htslib                    1.9                  h3a161e8_7    bioconda
+icu                       58.2                 h0a44026_3
+jpeg                      9d                   h9ed2024_0
+krb5                      1.17.1               hddcf347_0
+libcurl                   7.69.1               h051b688_0
+libcxx                    12.0.0               h2f01273_0
+libdeflate                1.0                  h1de35cc_1    bioconda
+libedit                   3.1.20181209         hb402a30_0
+libev                     4.33                 h9ed2024_1
+libffi                    3.2.1                         1    bioconda
+libgcc                    4.8.5               hdbeacc1_10
+libgfortran               3.0.1                h93005f0_2
+libiconv                  1.16                 h1de35cc_0
+libnghttp2                1.46.0               ha29bfda_0
+libpng                    1.6.37               ha441bb4_0
+libssh2                   1.9.0                ha12b0ac_1
+libtiff                   4.2.0                h87d7836_0
+libwebp-base              1.2.0                h9ed2024_0
+libxml2                   2.9.12               hcdb78fc_0
+lz4-c                     1.9.3                h23ab428_1
+ncurses                   6.1                  h0a44026_1
+openjdk                   11.0.6               h7bc2e8c_1
+openssl                   1.1.1l               h9ed2024_0
+pcre                      8.45                 h23ab428_0
+perl                      5.26.2               h4e221da_0
+picard                    2.26.10              hdfd78af_0    bioconda
+pip                       21.2.4           py38hecd8cb5_0
+python                    3.8.1                h359304d_1
+r-base                    3.3.1                         0
+readline                  7.0                  h1de35cc_5
+samtools                  1.9                 h8aa4d43_12    bioconda
+setuptools                58.0.4           py38hecd8cb5_0
+sqlite                    3.31.1               ha441bb4_0
+tk                        8.6.11               h7bc2e8c_0 
+wheel                     0.37.0             pyhd3eb1b0_1 
+xz                        5.2.5                h1de35cc_0 
+zlib                      1.2.11               h4dc903c_4 
+zstd                      4.4.9                h322a384_0 
