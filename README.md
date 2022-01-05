@@ -81,16 +81,34 @@ wget https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
 sh Miniconda3-latest-MacOSX-x86_64.sh
 ```
 
-### 4. Make Bioinfo ENV
+### 4. Make Bioinfo ENV and install sickle
 ```
- conda env create -f DEVAPP.yml
- conda activate DEVAPP
+conda env create -f DEVAPP.yml
+```
+```
+conda activate DEVAPP
+```
+```
+sudo apt-get install -y sickle
 ```
 ### 5.Make and activate streamlit ENV
-```
- 
-```
 
+- install virtualenv [Python version >=3.8]
+```
+sudo apt install python3-virtualenv 
+```
+- make env
+```
+virtualenv myenv
+```
+- activate myenv
+```
+source myenv/bin/activate
+```
+- install packages with requirment.txt
+```
+pip install -r requirment.txt
+```
 ### 6. Run APP
 ```
 streamlit run APP/app.py --server.maxUploadSize=42000
