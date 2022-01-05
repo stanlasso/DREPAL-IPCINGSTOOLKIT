@@ -122,6 +122,7 @@ streamlit run APP/app.py --server.maxUploadSize=42000
 
 - Egomli Stanislas ASSOHOUN 
 - Aristide Berenger AKO 
-- Catherine DOGUA 
 - Christian-Renaud SERY
+- Kablan Jerôme ADOU
+- Catherine DOUGA
 - Ronan JAMBOU 
