@@ -46,8 +46,6 @@ go to **/home/xxxxxxx/**
 To complete installation of IPCINGSTOOLKIT  clone the directory and enter it.
 
 ```
-mkdir IPCITOOLKIT
-cd IPCITOOLKIT
 git clone git@github.com:stanlasso/DREPAL-IPCINGSTOOLKIT.git
 ```
 ### 3. Conda
@@ -85,12 +83,12 @@ sh Miniconda3-latest-MacOSX-x86_64.sh
 
 ### 4. Make Bioinfo ENV
 ```
- conda env create -f bioinfoenv.yml
- conda activate Bioinfo
+ conda env create -f DEVAPP.yml
+ conda activate DEVAPP
 ```
-### 5. Activate streamlit ENV
+### 5.Make and activate streamlit ENV
 ```
- source ipcitoolskit/bin/activate
+ 
 ```
 
 ### 6. Run APP
