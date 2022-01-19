@@ -111,7 +111,7 @@ pip install -r requirment.txt
 ```
 ### 6. Run APP
 ```
-streamlit run APP/app.py --server.maxUploadSize=42000
+streamlit run APP/app.py --server.maxUploadSize=4200
 
 ```
 ### 7. Open Web Browser and Paste addresse
